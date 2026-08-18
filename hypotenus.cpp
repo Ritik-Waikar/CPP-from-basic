@@ -5,7 +5,7 @@ using namespace std;
 int main(){
     double a;
     double b;
-    double c;
+    double d;
     cout << "Enter side a" << endl;
     cin >> a;
     cout << "Enter side b" << endl;
@@ -13,8 +13,8 @@ int main(){
 
     // a = pow(a, 2);
     // b = pow(b, 2);
-    c = sqrt(pow(a, 2)+pow(b, 2));
+    d = sqrt(pow(a, 2)+pow(b, 2));
 
-    cout << "Side c is "<< c << endl;
+    cout << "Side d is "<< d << endl;
     return 0;
 }
