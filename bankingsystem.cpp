@@ -14,9 +14,9 @@ int main(){
    
     do
     {
-    cout << "*************************" << '\n';
+    cout << "************************" << '\n';
     cout << "BANKING SYSTEM" << '\n';
-    cout << "*************************" << '\n';
+    cout << "************************" << '\n';
     cout << "1. Display balance" << '\n';
     cout << "2. Deposit money" << '\n';
     cout << "3. Withdraw money" << '\n';
